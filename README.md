@@ -13,6 +13,7 @@ Octomap is a library that needs to be installed first. After downloading and ent
   
   
 After installing the whole library, enter folder octomap/share/octomap-example, and run:
+
     cmake .
     make
     ./simple
